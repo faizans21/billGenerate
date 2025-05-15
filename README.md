@@ -1,4 +1,4 @@
 # billGenerate
 this a bill generator application build using java
 <br>
-Author - Faizan Shaikh
+Author - Faizan Shaikh(Taloja)
